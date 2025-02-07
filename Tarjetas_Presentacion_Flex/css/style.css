@@ -27,12 +27,14 @@ ul {
 }
 
 body {
+  margin: 0;
   font-family: Arial, sans-serif;
   background-color: var(--color-secundario);
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 100dvh;
+  height: 100%;
 }
 
 /* Card Wrapper */
